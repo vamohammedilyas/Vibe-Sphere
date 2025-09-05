@@ -35,10 +35,10 @@ Vibe-Sphere/
 - ➕ Add more moods (Excited, Relaxed, Angry)
 - 💾 Store mood history using **localStorage**
 - 📊 Visualize moods using **charts**
-- 🎶 Integrate with a **music API** for mood-based playlists
+- 🎶 Integrate with a **music API** for mood-based playlist
 
 ---
 
 ## 👨‍💻 Author
 **Mohammed Ilyas**  
-📧 [vamohammedilyas15@gmail.com](mailto:vamohammedilyas15@gmail.com)
+📧 [vamohammedilyas05@gmail.com](mailto:vamohammedilyas15@gmail.com)
